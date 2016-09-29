@@ -13,14 +13,15 @@ In this article, certain tips for maintaining UX will be looked into for mobile 
 3. Ensure auto save of filled forms inorder to ensure that users dont have to enter data twice.
 4. Endless newsfeed keeps the used engaged on the app or website.
 5. Decide between browser, native app and hybrid app while choosing between the medium to communicate to users. Each has its own purpose.
-6. The web version of any business should not be directly converted to mobile version. Mobile users are easily disengage and task 
+6. The web version of any business should not be directly converted to mobile version. Mobile users are easily disengaged and task 
 oriented unlike web users. Example is the starbucks app.
 7. Make the titles and usage of every activity clear and make sure they precisely meet the user segment's needs.
 8. Perform user testing to ensure that defined navigation/action is followed by the users.
 9. Take credit card information only for paid subscriptions. 
-10. Leave adequate spacing and put the ontent so that the user captures and retents the necessary information
-11. Highlight the most common action for any activity.
-12. Show errors that are user friendly rather than the technical errors.
+10. Leave adequate spacing and put the content so that the user captures and retents the necessary information
+11. Highlight the most common action for any activity(the one that is used by 90+% users so that the action is easily completed).
+12. Show errors that are user friendly rather than the technical errors(when this happens user has no idea what to do).
+13. Label all interactive controls just to ensure that users will know about it and get used to it.
 
 
 
